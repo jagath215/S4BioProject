@@ -3,6 +3,5 @@ tensorflow_addons
 numpy
 matplotlib
 pandas
-base64
 keras
 cv2
