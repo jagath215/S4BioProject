@@ -1,8 +1,8 @@
 tensorflow
 tensorflow_addons
 numpy
-matplotlib.pyplot
+matplotlib
 pandas
 base64
-keras.models
+keras
 cv2
