@@ -1,0 +1,9 @@
+tensorflow
+tensorflow_addons
+predictor
+numpy
+matplotlib.pyplot
+pandas
+base64
+keras.models
+cv2
