@@ -3,5 +3,4 @@ tensorflow_addons
 numpy
 matplotlib
 pandas
-keras
-cv2
+opencv-python
