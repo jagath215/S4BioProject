@@ -1,6 +1,5 @@
 tensorflow
 tensorflow_addons
-predictor
 numpy
 matplotlib.pyplot
 pandas
